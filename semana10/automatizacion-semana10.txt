@@ -1,0 +1,11 @@
+Qué evento activa el flujo?
+el cambio de estado del reporte "ATENDIENDO " en la base
+de datos
+
+¿Qué mensaje se enviaría a Telegram?
+algo corto, claro y sin datos sensibles
+
+¿Qué información no debería enviarse por seguridad?
+datos personales
+ubicacion exacta 
+fotos con personas o placas visibles 

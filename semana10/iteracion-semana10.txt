@@ -1,0 +1,19 @@
+Qué 2 tareas del backlog harías primero?
+como ciudadano quiero registrar 
+un reportecon descripcion,  foto y ubicación 
+
+ccomorevisor, quiero ver todos los reportes y cambiarles 
+el estado 
+
+
+¿Por qué son las más importantes?
+porque forman el ciclo
+minimo viable de la veeduria
+
+
+¿Qué significa para ti que una tarea esté “terminada”?
+cuando cumple 4cosas
+funciona
+esta usable
+esta probada
+esta documentado

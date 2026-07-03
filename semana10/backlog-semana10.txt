@@ -1,0 +1,17 @@
+como ciudadano 
+quiero registrar un reporte
+con descripcion, foto y ubicación 
+para que la alcafia pueda
+atender problemas de mi comunidad 
+
+
+como revisor de la alcadia
+quiero ver todos los reportes nievos y cambiarles 
+el estado para priorizar los casos mas urgentes
+
+
+como administrador 
+quiero ver dashboard con 
+estadisticas de  reportes por barrio
+y tipo, para atomar decisiones
+y rendir cuentas  a la comunidad 

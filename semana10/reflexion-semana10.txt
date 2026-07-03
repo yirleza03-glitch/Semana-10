@@ -1,0 +1,9 @@
+porque sin esas 3 cosas las
+participación  ciudadana no s segura ni confibale
+  
+  1: base de datos
+  sirve para guardar toda la información 
+
+  2: autentificacion de usuario 
+  si no hay login, cualquiera piede
+  borrar reporte o hacerse pasar por otro
